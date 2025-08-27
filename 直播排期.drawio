@@ -191,8 +191,8 @@
             <mxPoint x="870" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jlgtmTa_cF0xx2tCNKrS-15" value="1. 先查上报的直播预告列表&lt;div&gt;2. 对于没有匹配到排期的，进行匹配【通过主体+开播时间(日、夜) 进行匹配】&lt;/div&gt;&lt;div&gt;3. 匹配成功后反向设置视频号直播信息表&lt;/div&gt;&lt;div&gt;4. 返回能匹配上排期的预告列表&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="420" width="440" height="70" as="geometry" />
+        <mxCell id="jlgtmTa_cF0xx2tCNKrS-15" value="1. 先查上报的直播预告列表&lt;div&gt;2. 如果存在没有匹配到排期的，进行匹配【通过主体+开播时间(日、夜) 进行匹配】&lt;/div&gt;&lt;div&gt;3. 匹配成功后反向设置视频号直播信息表&lt;/div&gt;&lt;div&gt;4. 返回能匹配上排期的预告列表&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="420" width="460" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jlgtmTa_cF0xx2tCNKrS-14" value="7. 返回直播信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" source="jlgtmTa_cF0xx2tCNKrS-12" target="n5IOy25mbfWYR4SkcpzC-1" edge="1">
           <mxGeometry x="0.0034" relative="1" as="geometry">
